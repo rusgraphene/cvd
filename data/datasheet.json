@@ -1,0 +1,27 @@
+{
+    "products" : [{
+        "id": "graphene-submarine-2.0",
+        "productName": "Graphene Submarine 2.0",
+        "description": {
+            "title":"Compact laboratory equipment for controlled graphene growth via chemical vapor deposition (CVD) method.",
+            "blocks": [
+                {"id":0,"body":"Graphene growth on Ni and Cu foil."}
+            ]
+        },
+        "specifications":{
+
+            "dimensions":{
+                "w": 50,
+                "l": 50,
+                "h": 50,
+                "units":"cm"
+            },
+            "energy_consumption": {
+                "value": 500,
+                "units": "W"
+            }
+        }
+    }
+    ]
+
+}
