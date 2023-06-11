@@ -2,3 +2,34 @@
     background-color: #234567;
     color: #d6ecf7;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+}
+
+button {
+    height: '5vh';
+}
+
+h1 {
+    color: #7fd4ff;
+}
+
+h2 {
+    color: #bed3ff
+}
+
+header {
+    justify-content: center;
+    text-align: center;
+}
+
