@@ -35,3 +35,27 @@ header {
     text-justify: center;
 }
 
+.compare-scroll {
+    display: flex;
+    flex-direction: column;
+}
+
+.compare-block {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: solid 2px #7fd4ff;
+}
+
+.compare-title {
+    width: 20%;
+    text-align: center;
+}
+
+.compare-body {
+    width: 40%;
+    border: solid 2px #91a3ac;
+    text-align: center;
+}
+
